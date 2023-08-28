@@ -18,9 +18,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Reviews&Co # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Pros & Cons of your favorite software and services # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -37,8 +37,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Admir - Reviews&Co
+  email: reviewsndco@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
@@ -47,7 +47,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: 1_kNdm-uJhuWeJdkGGuvSMaCHNe19tDbuNeBW66-vdw # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
