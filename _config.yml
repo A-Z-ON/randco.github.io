@@ -20,7 +20,11 @@ timezone:
 
 title: Reviews&Co # the main title
 
+<<<<<<< HEAD
 tagline: Pros & Cons of your favorite software and services. # it will display as the sub-title
+=======
+tagline: Pros & Cons of your favorite software and services # it will display as the sub-title
+>>>>>>> 7f615ed6a4f176df0969b5148c4aa29064d026f0
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -47,7 +51,11 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: 1_kNdm-uJhuWeJdkGGuvSMaCHNe19tDbuNeBW66-vdw# fill in to your verification string
+<<<<<<< HEAD
+google_site_verification: 1_kNdm-uJhuWeJdkGGuvSMaCHNe19tDbuNeBW66-vdw # fill in to your verification string
+=======
+google_site_verification: 1_kNdm-uJhuWeJdkGGuvSMaCHNe19tDbuNeBW66-vdw # fill in to your verification string
+>>>>>>> 7f615ed6a4f176df0969b5148c4aa29064d026f0
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
